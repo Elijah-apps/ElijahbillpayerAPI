@@ -1,6 +1,6 @@
 ﻿namespace ElijahbillpayerAPI.Models
 {
-    public class Priviledge
+    public class Priviledges
     {
         /****************THE PRIVILEDGE MODEL CONTROLS THE AUTHORITY GIVEN TO DIFFERNENT ROLE OF ADMIN****************************
          * ********************************
